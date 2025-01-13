@@ -64,3 +64,13 @@ Directory Structure:
   ```
 
 5. Run the application: python src/weather_dashboard.py
+
+**Lessons Learned:**
+
+```
+How to securely store and manage API keys using environment variables.
+Using Git for version control and tracking project changes.
+Handling errors in distributed systems.
+```
+**Challenges Faced:**
+I ran into an issue installing pip on WSL. I fixed it by updating the requests package from version 2.82.2 to 2.31
